@@ -1,0 +1,25 @@
+# Logfile created on 2014-03-01 18:19:21 -0500 by logger.rb/44203
+I, [2014-03-01T18:19:21.324403 #2538]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-01T18:19:21.324690 #2538]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-01T18:19:21.324919 #2538]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-01T18:19:21.325115 #2538]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-01T18:19:21.325320 #2538]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-01T18:19:21.325528 #2538]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-01T18:19:21.325731 #2538]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-01T18:19:21.325932 #2538]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-01T18:19:21.326133 #2538]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-01T18:19:21.326332 #2538]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-01T18:19:21.326534 #2538]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-01T18:19:21.326724 #2538]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-01T18:19:21.326914 #2538]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-01T18:19:21.327104 #2538]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-01T18:19:21.327298 #2538]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-01T18:19:21.327485 #2538]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-01T18:19:21.327682 #2538]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-01T18:19:21.327886 #2538]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-01T18:19:23.329959 #2538]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-01T18:19:23.330350 #2538]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-01T18:19:23.330611 #2538]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-01T18:19:23.330848 #2538]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-01T18:19:23.331093 #2538]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-01T18:19:23.331320 #2538]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

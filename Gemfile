@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
+gem "nokogiri"
+gem "capybara"
+gem "sqlite3"
 gem "rack"
-gem "rack/test"
 gem "sinatra"
 gem "activerecord"
 gem "sqlite3"

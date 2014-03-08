@@ -3,18 +3,19 @@
 
 ENV['RACK_ENV'] = 'test'
 
-require_relative '../app'
-require 'rack/test'
+require_relative '../config/environment'
 
 # These are helpers for rspec that allow us to use things like last_response
 # in our tests. We require it at top level in spec_helper so every spec
 # that requires spec_helper gets access to them
-include Rack::Test::Methods
 
 RSpec.configure do |config|
   config.treat_symbols_as_metadata_keys_with_true_values = true
   config.run_all_when_everything_filtered = true
   config.formatter = :documentation
+
+  config.include Rack::Test::Methods
+  config.include Capybara::DSL
 
   config.order = 'random'
 end

@@ -1,2 +1,6 @@
 require './app'
-run TempGraph
+require './controllers/temp_graph_controller'
+require './config/environment'
+
+use TempGraphController
+run App

@@ -1,11 +1,20 @@
 source "https://rubygems.org"
 
+gem "chartkick"
 gem "nokogiri"
 gem "capybara"
-gem "sqlite3"
+gem "poltergeist"
 gem "rack"
 gem "sinatra"
 gem "activerecord"
 gem "sqlite3"
 gem "rspec"
 gem "pry-nav"
+gem 'thin'
+gem 'json'
+gem 'sinatra-contrib'
+gem 'sinatra-reloader'
+gem "sinatra-activerecord"
+gem 'rake'
+gem 'shotgun'
+gem 'selenium-webdriver'

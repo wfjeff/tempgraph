@@ -406,3 +406,560 @@ I, [2014-03-03T22:15:09.212503 #18529]  INFO -- : 0:  sinatra-reloader (1.0) fro
 I, [2014-03-03T22:15:09.212688 #18529]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
 I, [2014-03-03T22:15:09.212886 #18529]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
 I, [2014-03-03T22:15:09.213103 #18529]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-08T19:49:42.966908 #7632]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-08T19:49:42.967229 #7632]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-08T19:49:42.967434 #7632]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-08T19:49:42.967677 #7632]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-08T19:49:42.967902 #7632]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-08T19:49:42.968106 #7632]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-08T19:49:42.968323 #7632]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-08T19:49:42.968535 #7632]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-08T19:49:42.968754 #7632]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-08T19:49:42.968989 #7632]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-08T19:49:42.969211 #7632]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-08T19:49:42.969428 #7632]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-08T19:49:42.969629 #7632]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-08T19:49:42.969847 #7632]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-08T19:49:42.970055 #7632]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-08T19:49:42.970259 #7632]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-08T19:49:42.970467 #7632]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-08T19:49:42.970687 #7632]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-08T19:49:42.970907 #7632]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-08T19:49:42.971107 #7632]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-08T19:49:42.971311 #7632]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-08T19:49:42.971528 #7632]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+E, [2014-03-08T19:49:43.134209 #7632] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+Command 'qmake -spec macx-g++ ' not available
+
+Makefile not found
+
+Gem files will remain installed in /Users/williamjeffries/.rvm/gems/ruby-2.1.0/gems/capybara-webkit-1.1.0 for inspection.
+Results logged to /Users/williamjeffries/.rvm/gems/ruby-2.1.0/extensions/x86_64-darwin-12/2.1.0-static/capybara-webkit-1.1.0/gem_make.out
+
+/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:31:in `make'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:47:in `block in build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-03-08T19:51:03.125408 #7686]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-08T19:51:03.125731 #7686]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-08T19:51:03.125942 #7686]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-08T19:51:03.126186 #7686]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-08T19:51:03.126401 #7686]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-08T19:51:03.126608 #7686]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-08T19:51:03.126818 #7686]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-08T19:51:03.127041 #7686]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-08T19:51:03.127265 #7686]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-08T19:51:03.127482 #7686]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-08T19:51:03.127688 #7686]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-08T19:51:03.127896 #7686]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-08T19:51:03.128110 #7686]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-08T19:51:03.128331 #7686]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-08T19:51:03.128543 #7686]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-08T19:51:03.128744 #7686]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-08T19:51:03.128954 #7686]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-08T19:51:03.129154 #7686]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-08T19:51:03.129375 #7686]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-08T19:51:03.129587 #7686]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-08T19:51:03.129783 #7686]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-08T19:51:03.129998 #7686]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+E, [2014-03-08T19:51:03.289552 #7686] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+Command 'qmake -spec macx-g++ ' not available
+
+Makefile not found
+
+Gem files will remain installed in /Users/williamjeffries/.rvm/gems/ruby-2.1.0/gems/capybara-webkit-1.1.0 for inspection.
+Results logged to /Users/williamjeffries/.rvm/gems/ruby-2.1.0/extensions/x86_64-darwin-12/2.1.0-static/capybara-webkit-1.1.0/gem_make.out
+
+/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:31:in `make'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:47:in `block in build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-03-08T19:58:26.587780 #7783]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-08T19:58:26.588209 #7783]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-08T19:58:26.588554 #7783]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-08T19:58:26.588876 #7783]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-08T19:58:26.589189 #7783]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-08T19:58:26.589512 #7783]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-08T19:58:26.589842 #7783]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-08T19:58:26.590141 #7783]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-08T19:58:26.590436 #7783]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-08T19:58:26.590737 #7783]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-08T19:58:26.591024 #7783]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-08T19:58:26.591317 #7783]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-08T19:58:26.591613 #7783]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-08T19:58:26.591912 #7783]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-08T19:58:26.592200 #7783]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-08T19:58:26.592480 #7783]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-08T19:58:26.592754 #7783]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-08T19:58:26.593005 #7783]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-08T19:58:26.593303 #7783]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-08T19:58:26.593570 #7783]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-08T19:58:26.593863 #7783]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-08T19:58:26.594125 #7783]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-08T19:58:26.594386 #7783]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-08T19:58:26.594638 #7783]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-08T19:58:26.594888 #7783]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-08T19:58:26.595164 #7783]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-08T19:58:26.595410 #7783]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-08T19:58:26.595656 #7783]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-08T19:58:26.595917 #7783]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-08T19:58:26.596260 #7783]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-08T19:58:26.596528 #7783]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-08T19:58:26.596799 #7783]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-03-08T19:58:26.597076 #7783]  INFO -- : 0:  poltergeist (1.5.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-03-08T19:58:26.597352 #7783]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-08T19:58:26.597626 #7783]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-08T19:58:26.597873 #7783]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-08T19:58:26.598130 #7783]  INFO -- : 0:  rack-protection (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-08T19:58:26.598395 #7783]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-08T19:58:26.598644 #7783]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-08T19:58:26.598905 #7783]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-08T19:58:26.599149 #7783]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-08T19:58:26.599416 #7783]  INFO -- : 0:  rubyzip (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rubyzip-1.1.0.gemspec
+I, [2014-03-08T19:58:26.599673 #7783]  INFO -- : 0:  websocket (1.0.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-1.0.7.gemspec
+I, [2014-03-08T19:58:26.599917 #7783]  INFO -- : 0:  selenium-webdriver (2.40.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/selenium-webdriver-2.40.0.gemspec
+I, [2014-03-08T19:58:26.600158 #7783]  INFO -- : 0:  shotgun (0.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-08T19:58:26.600402 #7783]  INFO -- : 0:  tilt (1.4.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-08T19:58:26.600649 #7783]  INFO -- : 0:  sinatra (1.4.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-08T19:58:26.600897 #7783]  INFO -- : 0:  sinatra-activerecord (1.3.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-activerecord-1.3.0.gemspec
+I, [2014-03-08T19:58:26.601142 #7783]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-08T19:58:26.601384 #7783]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-03-08T19:58:26.601631 #7783]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-08T19:58:26.601870 #7783]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-08T19:58:26.602104 #7783]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-08T20:28:29.156315 #7968]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-08T20:28:29.156653 #7968]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-08T20:28:29.156902 #7968]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-08T20:28:29.157136 #7968]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-08T20:28:29.157349 #7968]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-08T20:28:29.157584 #7968]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-08T20:28:29.157808 #7968]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-08T20:28:29.158041 #7968]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-08T20:28:29.158284 #7968]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-08T20:28:29.158502 #7968]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-08T20:28:29.158718 #7968]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-08T20:28:29.158924 #7968]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-08T20:28:29.159125 #7968]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-08T20:28:29.159337 #7968]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-08T20:28:29.159560 #7968]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-08T20:28:29.159758 #7968]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-08T20:28:29.159958 #7968]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-08T20:28:29.160174 #7968]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-08T20:28:29.160379 #7968]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-08T20:28:29.160581 #7968]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-08T20:28:29.160779 #7968]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-08T20:28:29.160998 #7968]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-08T20:28:29.161206 #7968]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-08T20:28:29.161410 #7968]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-08T20:28:29.161614 #7968]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-08T20:28:29.161813 #7968]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-08T20:28:29.162010 #7968]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-08T20:28:29.162264 #7968]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-08T20:28:29.162483 #7968]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-08T20:28:29.162719 #7968]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-08T20:28:29.162936 #7968]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+E, [2014-03-08T20:28:29.906085 #7968] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/williamjeffries/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /Users/williamjeffries/.rvm/gems/ruby-2.1.0/extensions/x86_64-darwin-12/2.1.0-static/pg-0.17.1/gem_make.out
+
+/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-03-08T20:29:13.304729 #7985]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-08T20:29:13.305060 #7985]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-08T20:29:13.305328 #7985]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-08T20:29:13.305585 #7985]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-08T20:29:13.305829 #7985]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-08T20:29:13.306089 #7985]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-08T20:29:13.306375 #7985]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-08T20:29:13.306619 #7985]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-08T20:29:13.306829 #7985]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-08T20:29:13.307047 #7985]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-08T20:29:13.307275 #7985]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-08T20:29:13.307484 #7985]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-08T20:29:13.307681 #7985]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-08T20:29:13.307881 #7985]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-08T20:29:13.308092 #7985]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-08T20:29:13.308283 #7985]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-08T20:29:13.308491 #7985]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-08T20:29:13.308708 #7985]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-08T20:29:13.308908 #7985]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-08T20:29:13.309111 #7985]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-08T20:29:13.309342 #7985]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-08T20:29:13.309556 #7985]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-08T20:29:13.309790 #7985]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-08T20:29:13.310056 #7985]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-08T20:29:13.310303 #7985]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-08T20:29:13.310512 #7985]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-08T20:29:13.310728 #7985]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-08T20:29:13.310953 #7985]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-08T20:29:13.311169 #7985]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-08T20:29:13.311374 #7985]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-08T20:29:13.311587 #7985]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+E, [2014-03-08T20:29:13.534310 #7985] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/williamjeffries/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /Users/williamjeffries/.rvm/gems/ruby-2.1.0/extensions/x86_64-darwin-12/2.1.0-static/pg-0.17.1/gem_make.out
+
+/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-03-09T16:02:20.079770 #8520]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-09T16:02:20.080729 #8520]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-09T16:02:20.081082 #8520]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-09T16:02:20.081403 #8520]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-09T16:02:20.081705 #8520]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-09T16:02:20.082021 #8520]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-09T16:02:20.082344 #8520]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-09T16:02:20.082665 #8520]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-09T16:02:20.082982 #8520]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-09T16:02:20.083267 #8520]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-09T16:02:20.083556 #8520]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-09T16:02:20.083843 #8520]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-09T16:02:20.084116 #8520]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-09T16:02:20.084390 #8520]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-09T16:02:20.084682 #8520]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-09T16:02:20.084951 #8520]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-09T16:02:20.085233 #8520]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-09T16:02:20.085528 #8520]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-09T16:02:20.085801 #8520]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-09T16:02:20.086102 #8520]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-09T16:02:20.086391 #8520]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-09T16:02:20.086682 #8520]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-09T16:02:20.086968 #8520]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-09T16:02:20.087285 #8520]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-09T16:02:20.087702 #8520]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-09T16:02:20.088232 #8520]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-09T16:02:20.089101 #8520]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-09T16:02:20.089805 #8520]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-09T16:02:20.090284 #8520]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-09T16:02:20.090668 #8520]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-09T16:02:20.091046 #8520]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+E, [2014-03-09T16:02:20.803470 #8520] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/williamjeffries/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /Users/williamjeffries/.rvm/gems/ruby-2.1.0/extensions/x86_64-darwin-12/2.1.0-static/pg-0.17.1/gem_make.out
+
+/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/Users/williamjeffries/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-03-09T16:02:39.639361 #8536]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-09T16:02:39.639690 #8536]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-09T16:02:39.639910 #8536]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-09T16:02:39.640126 #8536]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-09T16:02:39.640329 #8536]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-09T16:02:39.640555 #8536]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-09T16:02:39.640791 #8536]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-09T16:02:39.641000 #8536]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-09T16:02:39.641213 #8536]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-09T16:02:39.641416 #8536]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-09T16:02:39.641617 #8536]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-09T16:02:39.641826 #8536]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-09T16:02:39.642030 #8536]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-09T16:02:39.642242 #8536]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-09T16:02:39.642442 #8536]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-09T16:02:39.642638 #8536]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-09T16:02:39.642831 #8536]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-09T16:02:39.643030 #8536]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-09T16:02:39.643262 #8536]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-09T16:02:39.643476 #8536]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-09T16:02:39.643695 #8536]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-09T16:02:39.643893 #8536]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-09T16:02:39.644086 #8536]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-09T16:02:39.644281 #8536]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-09T16:02:39.644495 #8536]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-09T16:02:39.644705 #8536]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-09T16:02:39.644895 #8536]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-09T16:02:39.645107 #8536]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-09T16:02:39.645351 #8536]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-09T16:02:39.645630 #8536]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-09T16:02:39.645874 #8536]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-09T16:02:39.646070 #8536]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-03-09T16:02:39.646304 #8536]  INFO -- : 0:  poltergeist (1.5.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-03-09T16:02:39.646547 #8536]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-09T16:02:39.646766 #8536]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-09T16:02:39.646972 #8536]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-09T16:02:39.647187 #8536]  INFO -- : 0:  rack-protection (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-09T16:02:39.647407 #8536]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-09T16:02:39.647611 #8536]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-09T16:02:39.647837 #8536]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-09T16:02:39.648032 #8536]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-09T16:02:39.648262 #8536]  INFO -- : 0:  rubyzip (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rubyzip-1.1.0.gemspec
+I, [2014-03-09T16:02:39.648477 #8536]  INFO -- : 0:  websocket (1.0.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-1.0.7.gemspec
+I, [2014-03-09T16:02:39.648680 #8536]  INFO -- : 0:  selenium-webdriver (2.40.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/selenium-webdriver-2.40.0.gemspec
+I, [2014-03-09T16:02:39.648880 #8536]  INFO -- : 0:  shotgun (0.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-09T16:02:39.649082 #8536]  INFO -- : 0:  tilt (1.4.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-09T16:02:39.649289 #8536]  INFO -- : 0:  sinatra (1.4.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-09T16:02:39.649497 #8536]  INFO -- : 0:  sinatra-activerecord (1.3.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-activerecord-1.3.0.gemspec
+I, [2014-03-09T16:02:39.649709 #8536]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-09T16:02:39.649912 #8536]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-03-09T16:02:39.650116 #8536]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-09T16:02:39.650317 #8536]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-09T16:02:39.650494 #8536]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-09T18:09:27.595891 #10319]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-09T18:09:27.600122 #10319]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-09T18:09:27.600428 #10319]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-09T18:09:27.600685 #10319]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-09T18:09:27.600950 #10319]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-09T18:09:27.601221 #10319]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-09T18:09:27.601514 #10319]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-09T18:09:27.601845 #10319]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-09T18:09:27.602141 #10319]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-09T18:09:27.602436 #10319]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-09T18:09:27.602735 #10319]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-09T18:09:27.603057 #10319]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-09T18:09:27.603346 #10319]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-09T18:09:27.603673 #10319]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-09T18:09:27.603972 #10319]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-09T18:09:27.604231 #10319]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-09T18:09:27.604525 #10319]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-09T18:09:27.604861 #10319]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-09T18:09:27.605156 #10319]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-09T18:09:27.605484 #10319]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-09T18:09:27.605764 #10319]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-09T18:09:27.606023 #10319]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-09T18:09:27.606291 #10319]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-09T18:09:27.606557 #10319]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-09T18:09:27.606843 #10319]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-09T18:09:27.607126 #10319]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-09T18:09:27.607423 #10319]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-09T18:09:27.607728 #10319]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-09T18:09:27.608055 #10319]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-09T18:09:27.608429 #10319]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-09T18:09:27.608756 #10319]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-09T18:09:27.609009 #10319]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-03-09T18:09:27.609310 #10319]  INFO -- : 0:  poltergeist (1.5.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-03-09T18:09:27.609586 #10319]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-09T18:09:27.609862 #10319]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-09T18:09:27.610126 #10319]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-09T18:09:27.610440 #10319]  INFO -- : 0:  rack-protection (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-09T18:09:27.610724 #10319]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-09T18:09:27.611005 #10319]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-09T18:09:27.611292 #10319]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-09T18:09:27.611537 #10319]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-09T18:09:27.611801 #10319]  INFO -- : 0:  rubyzip (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rubyzip-1.1.0.gemspec
+I, [2014-03-09T18:09:27.612073 #10319]  INFO -- : 0:  websocket (1.0.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-1.0.7.gemspec
+I, [2014-03-09T18:09:27.612321 #10319]  INFO -- : 0:  selenium-webdriver (2.40.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/selenium-webdriver-2.40.0.gemspec
+I, [2014-03-09T18:09:27.612565 #10319]  INFO -- : 0:  shotgun (0.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-09T18:09:27.612805 #10319]  INFO -- : 0:  tilt (1.4.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-09T18:09:27.613082 #10319]  INFO -- : 0:  sinatra (1.4.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-09T18:09:27.613381 #10319]  INFO -- : 0:  sinatra-activerecord (1.3.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-activerecord-1.3.0.gemspec
+I, [2014-03-09T18:09:27.613677 #10319]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-09T18:09:27.613972 #10319]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-03-09T18:09:27.614285 #10319]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-09T18:09:27.614545 #10319]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-09T18:09:27.614798 #10319]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-09T18:10:03.093686 #10339]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-09T18:10:03.094030 #10339]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-09T18:10:03.094231 #10339]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-09T18:10:03.094440 #10339]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-09T18:10:03.094643 #10339]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-09T18:10:03.094866 #10339]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-09T18:10:03.095136 #10339]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-09T18:10:03.095664 #10339]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-09T18:10:03.095933 #10339]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-09T18:10:03.096194 #10339]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-09T18:10:03.096440 #10339]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-09T18:10:03.096698 #10339]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-09T18:10:03.096948 #10339]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-09T18:10:03.097187 #10339]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-09T18:10:03.097446 #10339]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-09T18:10:03.097687 #10339]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-09T18:10:03.097931 #10339]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-09T18:10:03.098191 #10339]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-09T18:10:03.098445 #10339]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-09T18:10:03.098683 #10339]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-09T18:10:03.098942 #10339]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-09T18:10:03.099196 #10339]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-09T18:10:03.099463 #10339]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-09T18:10:03.099713 #10339]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-09T18:10:03.099954 #10339]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-09T18:10:03.100209 #10339]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-09T18:10:03.100462 #10339]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-09T18:10:03.100709 #10339]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-09T18:10:03.100976 #10339]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-09T18:10:03.101234 #10339]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-09T18:10:03.101493 #10339]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-09T18:10:07.718838 #10339]  INFO -- : 0:  pg (0.17.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pg-0.17.1.gemspec
+I, [2014-03-09T18:10:07.719398 #10339]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-03-09T18:10:07.719754 #10339]  INFO -- : 0:  poltergeist (1.5.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-03-09T18:10:07.720109 #10339]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-09T18:10:07.720434 #10339]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-09T18:10:07.720759 #10339]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-09T18:10:07.721107 #10339]  INFO -- : 0:  rack-protection (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-09T18:10:07.721432 #10339]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-09T18:10:07.721717 #10339]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-09T18:10:07.721980 #10339]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-09T18:10:07.722226 #10339]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-09T18:10:07.722468 #10339]  INFO -- : 0:  rubyzip (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rubyzip-1.1.0.gemspec
+I, [2014-03-09T18:10:07.722693 #10339]  INFO -- : 0:  websocket (1.0.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-1.0.7.gemspec
+I, [2014-03-09T18:10:07.722912 #10339]  INFO -- : 0:  selenium-webdriver (2.40.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/selenium-webdriver-2.40.0.gemspec
+I, [2014-03-09T18:10:07.723180 #10339]  INFO -- : 0:  shotgun (0.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-09T18:10:07.723435 #10339]  INFO -- : 0:  tilt (1.4.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-09T18:10:07.723764 #10339]  INFO -- : 0:  sinatra (1.4.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-09T18:10:07.724061 #10339]  INFO -- : 0:  sinatra-activerecord (1.3.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-activerecord-1.3.0.gemspec
+I, [2014-03-09T18:10:07.724368 #10339]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-09T18:10:07.724665 #10339]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-03-09T18:10:07.724951 #10339]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-09T18:10:07.725241 #10339]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-09T18:10:07.725535 #10339]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-09T18:17:52.114579 #10703]  INFO -- : 0:  rake (10.1.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-09T18:17:52.115218 #10703]  INFO -- : 0:  i18n (0.6.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-09T18:17:52.115688 #10703]  INFO -- : 0:  minitest (4.7.5) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-03-09T18:17:52.116134 #10703]  INFO -- : 0:  multi_json (1.8.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-09T18:17:52.116519 #10703]  INFO -- : 0:  atomic (1.1.15) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-09T18:17:52.116874 #10703]  INFO -- : 0:  thread_safe (0.2.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-09T18:17:52.117239 #10703]  INFO -- : 0:  tzinfo (0.3.38) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-09T18:17:52.117632 #10703]  INFO -- : 0:  activesupport (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.3.gemspec
+I, [2014-03-09T18:17:52.118044 #10703]  INFO -- : 0:  builder (3.1.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-09T18:17:52.118320 #10703]  INFO -- : 0:  activemodel (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.3.gemspec
+I, [2014-03-09T18:17:52.118598 #10703]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-09T18:17:52.118856 #10703]  INFO -- : 0:  arel (4.0.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-09T18:17:52.119123 #10703]  INFO -- : 0:  activerecord (4.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.3.gemspec
+I, [2014-03-09T18:17:52.119368 #10703]  INFO -- : 0:  backports (3.6.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-09T18:17:52.119588 #10703]  INFO -- : 0:  mime-types (2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.1.gemspec
+I, [2014-03-09T18:17:52.119806 #10703]  INFO -- : 0:  mini_portile (0.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-09T18:17:52.120018 #10703]  INFO -- : 0:  nokogiri (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-09T18:17:52.120226 #10703]  INFO -- : 0:  rack (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-09T18:17:52.120439 #10703]  INFO -- : 0:  rack-test (0.6.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-09T18:17:52.120669 #10703]  INFO -- : 0:  xpath (2.0.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-03-09T18:17:52.120874 #10703]  INFO -- : 0:  capybara (2.2.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-03-09T18:17:52.121084 #10703]  INFO -- : 0:  chartkick (1.2.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/chartkick-1.2.2.gemspec
+I, [2014-03-09T18:17:52.121287 #10703]  INFO -- : 0:  ffi (1.9.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-09T18:17:52.121475 #10703]  INFO -- : 0:  childprocess (0.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/childprocess-0.5.1.gemspec
+I, [2014-03-09T18:17:52.121689 #10703]  INFO -- : 0:  cliver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-03-09T18:17:52.121913 #10703]  INFO -- : 0:  coderay (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-09T18:17:52.122151 #10703]  INFO -- : 0:  daemons (1.1.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-09T18:17:52.122386 #10703]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-09T18:17:52.122641 #10703]  INFO -- : 0:  eventmachine (1.0.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-09T18:17:52.122996 #10703]  INFO -- : 0:  json (1.8.1) from /Users/williamjeffries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-03-09T18:17:52.123245 #10703]  INFO -- : 0:  method_source (0.8.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-09T18:17:52.123491 #10703]  INFO -- : 0:  pg (0.17.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pg-0.17.1.gemspec
+I, [2014-03-09T18:17:52.123737 #10703]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-03-09T18:17:52.123990 #10703]  INFO -- : 0:  poltergeist (1.5.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-03-09T18:17:52.124282 #10703]  INFO -- : 0:  slop (3.4.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-09T18:17:52.124686 #10703]  INFO -- : 0:  pry (0.9.12.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-09T18:17:52.124982 #10703]  INFO -- : 0:  pry-nav (0.2.3) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/pry-nav-0.2.3.gemspec
+I, [2014-03-09T18:17:52.125240 #10703]  INFO -- : 0:  rack-protection (1.5.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-09T18:17:52.125496 #10703]  INFO -- : 0:  rspec-core (2.14.8) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-09T18:17:52.125746 #10703]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-09T18:17:52.126017 #10703]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-09T18:17:52.126284 #10703]  INFO -- : 0:  rspec (2.14.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-09T18:17:52.126540 #10703]  INFO -- : 0:  rubyzip (1.1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/rubyzip-1.1.0.gemspec
+I, [2014-03-09T18:17:52.126803 #10703]  INFO -- : 0:  websocket (1.0.7) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/websocket-1.0.7.gemspec
+I, [2014-03-09T18:17:52.127056 #10703]  INFO -- : 0:  selenium-webdriver (2.40.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/selenium-webdriver-2.40.0.gemspec
+I, [2014-03-09T18:17:52.127318 #10703]  INFO -- : 0:  shotgun (0.9) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-09T18:17:52.127585 #10703]  INFO -- : 0:  tilt (1.4.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-09T18:17:52.127857 #10703]  INFO -- : 0:  sinatra (1.4.4) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-09T18:17:52.128126 #10703]  INFO -- : 0:  sinatra-activerecord (1.3.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-activerecord-1.3.0.gemspec
+I, [2014-03-09T18:17:52.128394 #10703]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-09T18:17:52.128657 #10703]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-03-09T18:17:52.128921 #10703]  INFO -- : 0:  thin (1.6.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-09T18:17:52.129150 #10703]  INFO -- : 0:  bundler (1.5.1) from /Users/williamjeffries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

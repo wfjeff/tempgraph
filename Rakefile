@@ -22,3 +22,10 @@ end
 task :console => :environment do
   Pry.start
 end
+
+desc "get temperature from twine"
+task :get_reading => :environment do
+  twine = Twine.find_by(name: "twine1")
+  twine.get_reading
+  twine.save
+end

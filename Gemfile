@@ -1,20 +1,23 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "chartkick"
-gem "nokogiri"
-gem "capybara"
-gem "poltergeist"
-gem "rack"
-gem "sinatra"
-gem "activerecord"
-gem "sqlite3"
-gem "rspec"
-gem "pry-nav"
+gem 'chartkick'
+gem 'nokogiri'
+gem 'capybara'
+gem 'poltergeist'
+gem 'rack'
+gem 'sinatra'
+gem 'activerecord'
+gem 'rspec'
+gem 'pry-nav'
 gem 'thin'
 gem 'json'
 gem 'sinatra-contrib'
 gem 'sinatra-reloader'
-gem "sinatra-activerecord"
+gem 'sinatra-activerecord'
 gem 'rake'
-gem 'shotgun'
 gem 'selenium-webdriver'
+gem 'pg'
+
+group :test, :development do
+  gem 'shotgun'
+end

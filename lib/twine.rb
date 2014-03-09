@@ -21,7 +21,7 @@ class Twine < ActiveRecord::Base
   end
 
   def get_reading
-    session = Capybara::Session.new(:selenium)
+    session = ScrapeDriver.new
     session.visit 'https://twine.cc/login?next=%2F'
     session.fill_in 'email', :with => "wm.jeffries@gmail.com"
     session.fill_in 'password', :with => "33west26"
@@ -31,6 +31,6 @@ class Twine < ActiveRecord::Base
     noko = Nokogiri::HTML(session.html)
     session.driver.quit
     temp = noko.css(".temperature-value").text.to_i
-    Reading.create(temp: temp)
+    self.readings.create(temp: temp)
   end
 end

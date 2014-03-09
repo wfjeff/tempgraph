@@ -16,7 +16,7 @@ class Twine < ActiveRecord::Base
     self.readings.collect{|reading|reading.temp}.max
   end
 
-  def range(margin = 0)
+  def range(margin = 5)
     {min: self.min - margin, max: self.max + margin}
   end
 

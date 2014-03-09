@@ -2,18 +2,30 @@ class Twine < ActiveRecord::Base
   has_many :readings
 
   def chart_hash
-    chart_hash = readings.inject({}) do |log, reading| 
-      log[reading.created_at] = reading.temp
-      log
+      if readings.empty?
+        {Time.now => 0}
+      else
+      chart_hash = readings.inject({}) do |log, reading| 
+        log[reading.created_at] = reading.temp
+        log
+      end
     end
   end
 
   def min
-    self.readings.collect{|reading|reading.temp}.min
+    if self.readings.empty?
+      0
+    else
+      self.readings.collect{|reading|reading.temp}.min
+    end
   end
 
     def max
-    self.readings.collect{|reading|reading.temp}.max
+    if self.readings.empty?
+      0
+    else
+      self.readings.collect{|reading|reading.temp}.max
+    end
   end
 
   def range(margin = 5)

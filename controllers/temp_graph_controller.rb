@@ -1,7 +1,7 @@
 class TempGraphController < App
   #put your route handlers here
   get '/' do 
-    twine = Twine.find_by(name: "My Twine")
+    twine = Twine.find_by(name: "twine1")
     @chart_hash = twine.chart_hash
     @range = twine.range
 

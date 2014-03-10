@@ -29,3 +29,8 @@ task :get_reading => :environment do
   twine.get_reading
   twine.save
 end
+
+desc "make twine1"
+task :twine1 => :environment do
+  Twine.create(name: "twine1")
+end

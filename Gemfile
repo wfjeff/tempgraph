@@ -17,6 +17,7 @@ gem 'sinatra-activerecord'
 gem 'rake'
 gem 'selenium-webdriver'
 gem 'pg'
+gem 'tux'
 
 group :test, :development do
   gem 'shotgun'

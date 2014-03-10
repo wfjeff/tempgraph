@@ -39,7 +39,7 @@ class Twine < ActiveRecord::Base
     session.fill_in 'password', :with => "33west26"
     sleep 1 + rand(1..10)/50
     session.click_button 'signin'
-    sleep 1
+    sleep 2
     noko = Nokogiri::HTML(session.html)
     session.driver.quit
     temp = noko.css(".temperature-value").text.to_i
